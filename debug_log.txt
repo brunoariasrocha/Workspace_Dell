@@ -1,2 +1,0 @@
-term=#inputStartProg, scrap_type=ScrapType.CSS_SELECTOR, position=0, optional_term=None
-term=[name=cGet] > input, scrap_type=ScrapType.CSS_SELECTOR, position=0, optional_term=None
