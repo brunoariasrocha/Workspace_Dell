@@ -1,0 +1,53 @@
+2025-12-03 11:42:45,985-DEBUG-root-21488::logging_config::logger|188:: Log file created: 'Log\Notebook_Arias\TIR__20251203114245979.log'
+2025-12-03 11:42:45,985-INFO-root-21488::base::Start|1175:: TIR Version: 1.20.30
+2025-12-03 11:42:45,985-INFO-root-21488::base::Start|1176:: Starting the browser
+2025-12-03 11:42:54,707-INFO-root-21488::base::get_url|1274:: Page is ready!
+2025-12-03 11:42:54,710-INFO-root-21488::base::Start|1242:: Browser maximized to 1550x830
+2025-12-03 11:42:54,711-INFO-root-21488::base::Start|1244:: Screen size is different from default used in headless mode
+2025-12-03 11:42:54,781-INFO-root-21488::webapp_internal::Setup|240:: ***System Info*** in Setup():
+2025-12-03 11:42:54,796-DEBUG-root-21488::psutil_info::system_info|5:: CPU USAGE: 64.5%
+2025-12-03 11:42:54,802-DEBUG-root-21488::psutil_info::system_info|6:: MEMORY USAGE: 73.1%
+2025-12-03 11:42:54,807-DEBUG-root-21488::psutil_info::system_info|7:: MEMORY AVAILABLE: 26.94%
+2025-12-03 11:42:54,837-INFO-root-21488::base::webapp_shadowroot|1374:: Webapp: 10.1.5
+2025-12-03 11:42:54,841-INFO-root-21488::webapp_internal::filling_initial_program|437:: Filling Initial Program: "SIGACOM"
+2025-12-03 11:42:54,842-DEBUG-root-21488::webapp_internal::wait_element|7652:: Waiting for element
+2025-12-03 11:42:54,923-DEBUG-root-21488::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-12-03 11:42:55,175-DEBUG-root-21488::base::click|189:: Click Type: ClickType.JS
+2025-12-03 11:42:55,182-DEBUG-root-21488::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 0
+2025-12-03 11:42:55,549-DEBUG-root-21488::webapp_internal::get_web_value|3193:: Current value: SIGACOM
+2025-12-03 11:42:55,549-INFO-root-21488::webapp_internal::filling_server_environment|451:: Filling Server Environment: "cjqltz_prod"
+2025-12-03 11:42:55,549-DEBUG-root-21488::webapp_internal::wait_element|7652:: Waiting for element
+2025-12-03 11:42:55,569-DEBUG-root-21488::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-12-03 11:42:55,772-DEBUG-root-21488::base::click|189:: Click Type: ClickType.JS
+2025-12-03 11:42:55,777-DEBUG-root-21488::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 0
+2025-12-03 11:42:56,110-DEBUG-root-21488::webapp_internal::get_web_value|3193:: Current value: cjqltz_prod
+2025-12-03 11:42:56,136-DEBUG-root-21488::base::click|189:: Click Type: ClickType.JS
+2025-12-03 11:42:56,148-DEBUG-root-21488::webapp_internal::user_screen|507:: Filling user screen
+2025-12-03 11:43:02,705-DEBUG-root-21488::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-12-03 11:43:02,744-DEBUG-root-21488::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-12-03 11:43:03,001-INFO-root-21488::webapp_internal::user_screen|549:: Filling User
+2025-12-03 11:43:03,019-DEBUG-root-21488::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-12-03 11:43:03,222-DEBUG-root-21488::webapp_internal::get_web_value|3193:: Current value: ADMIN
+2025-12-03 11:43:03,255-INFO-root-21488::webapp_internal::user_screen|609:: Filling Password
+2025-12-03 11:43:03,280-DEBUG-root-21488::base::click|189:: Click Type: ClickType.JS
+2025-12-03 11:43:03,348-DEBUG-root-21488::webapp_internal::get_web_value|3193:: Current value: Totvs@2025
+2025-12-03 11:43:03,349-DEBUG-root-21488::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-12-03 11:43:03,377-DEBUG-root-21488::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-12-03 11:43:03,436-DEBUG-root-21488::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-12-03 11:43:03,463-DEBUG-root-21488::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-12-03 11:43:03,463-DEBUG-root-21488::webapp_internal::send_action|10482:: Trying to send action
+2025-12-03 11:43:03,469-DEBUG-root-21488::base::click|189:: Click Type: ClickType.JS
+2025-12-03 11:43:04,533-DEBUG-root-21488::webapp_internal::send_action|10523:: send_action method result = True
+2025-12-03 11:43:04,534-DEBUG-root-21488::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-12-03 11:43:04,987-DEBUG-root-21488::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-12-03 11:43:05,043-INFO-root-21488::webapp_internal::filling_date|867:: Filling Date: "21/08/2025"
+2025-12-03 11:43:05,049-DEBUG-root-21488::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-12-03 11:43:05,104-DEBUG-root-21488::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-12-03 11:43:05,107-DEBUG-root-21488::base::click|189:: Click Type: ClickType.JS
+2025-12-03 11:43:05,125-DEBUG-root-21488::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 1
+2025-12-03 11:43:05,173-DEBUG-root-21488::webapp_internal::get_web_value|3193:: Current value: 03/12/2025
+2025-12-03 11:43:06,220-DEBUG-root-21488::base::click|189:: Click Type: ClickType.JS
+2025-12-03 11:43:06,271-DEBUG-root-21488::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 2
+2025-12-03 11:43:06,375-DEBUG-root-21488::webapp_internal::get_web_value|3193:: Current value: 21/08/2025
