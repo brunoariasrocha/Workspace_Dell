@@ -1,5 +1,5 @@
 from tir import Webapp
-from behave import given, when, then
+from time import sleep
 import unittest
 
 class TESTE2MATA010(unittest.TestCase):
